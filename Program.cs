@@ -2,9 +2,12 @@
 
 using CodeWarsSolutions;
 
-Console.WriteLine("Hello, World!");
-Console.WriteLine(ToWeirdCase.ChangeToWeirdCase("this is a test"));
+//Console.WriteLine("Hello, World!");
+//Console.WriteLine(ToWeirdCase.ChangeToWeirdCase("this is a test"));
 
-List<int[]> peopleList = new List<int[]>() { new[] { 10, 0 }, new[] { 3, 5 }, new[] { 5, 8 } };
 
-Console.WriteLine(NumberOfPeopleInTheBus.Number(peopleList));
+//List<int[]> peopleList = new List<int[]>() { new[] { 10, 0 }, new[] { 3, 5 }, new[] { 5, 8 } };
+//Console.WriteLine(NumberOfPeopleInTheBus.Number(peopleList));
+
+//int my = Convert.ToInt32(Console.ReadLine());
+//Console.WriteLine(RowSumOddNumbers.GiveRowSumOddNumbers(my));
