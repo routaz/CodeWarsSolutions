@@ -11,3 +11,6 @@ using CodeWarsSolutions;
 
 //int my = Convert.ToInt32(Console.ReadLine());
 //Console.WriteLine(RowSumOddNumbers.GiveRowSumOddNumbers(my));
+
+
+//SplitStrings.Solution("blaablaablaaaabcdefg");
