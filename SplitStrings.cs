@@ -12,7 +12,6 @@ namespace CodeWarsSolutions
         public static string[] Solution(string str)
         {
             str = Regex.Replace(str, @"\s", "");
-            str.Trim();
 
             str = (str.Length % 2 == 0) ? str : str + "_";
 
@@ -20,10 +19,8 @@ namespace CodeWarsSolutions
 
             for (int i = 0; i < str.Length; i+=2)
             {
-   
                     var myString = str.Substring(i, 2);
                     strings.Add(myString);
- 
             }
 
             return strings.ToArray();
