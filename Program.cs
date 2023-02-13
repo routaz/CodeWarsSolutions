@@ -14,3 +14,5 @@ using CodeWarsSolutions;
 
 
 //SplitStrings.Solution("blaablaablaaaabcdefg");
+
+Console.WriteLine(Cats.Catss(2, 4));
