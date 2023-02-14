@@ -17,4 +17,6 @@ using CodeWarsSolutions;
 
 //Console.WriteLine(Cats.Catss(2, 4));
 
-Console.WriteLine(IsNumberDivisible.IsDivisible(3, 3, 4));
+//Console.WriteLine(IsNumberDivisible.IsDivisible(3, 3, 4));
+
+Console.WriteLine(Time.Correct("11:70:10"));
