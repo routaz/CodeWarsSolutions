@@ -15,4 +15,6 @@ using CodeWarsSolutions;
 
 //SplitStrings.Solution("blaablaablaaaabcdefg");
 
-Console.WriteLine(Cats.Catss(2, 4));
+//Console.WriteLine(Cats.Catss(2, 4));
+
+Console.WriteLine(IsNumberDivisible.IsDivisible(3, 3, 4));
